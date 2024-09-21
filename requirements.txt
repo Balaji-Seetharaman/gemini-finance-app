@@ -1,0 +1,12 @@
+streamlit
+yfinance
+pandas
+GoogleNews
+matplotlib
+numpy
+streamlit-echarts
+fpdf
+PyPDF2
+streamlit
+dotenv
+google-generativeai
